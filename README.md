@@ -1,2 +1,2 @@
-# Super_Yujin
-Java Study 📖
+# Java Study 📖
+
